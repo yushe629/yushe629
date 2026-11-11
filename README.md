@@ -3,13 +3,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yushe629&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yushe629&column=7&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![](https://raw.githubusercontent.com/yushe629/yushe629/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yushe629/yushe629/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yushe629/yushe629/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yushe629/yushe629/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yushe629/yushe629/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushe629)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yushe629/yushe629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
